@@ -12,7 +12,7 @@ This one is a digital marketing home page which is created using HTML & CSS. Thi
 ## 🔗PROJECT-4  : _Screenshot_
 
 ![Project 4](thumbnail.png)
-## __This is first Project of Html & CSS_
+## __This is fourth Project of Html & CSS_
 
 A HTML, CSS Project. Made with ♥ by Satyam Jaysawal. There will be 1 pages in the website (HomePage). In this project we gonna learn how we can create a website using simple HTML, CSS. The main purpose of the project is to get more used to with HTML, CSS. Later on, in this project, we gonna learn how we can deploy this site using Netlify. Also, we gonna learn the process from the zero to end and make the website ready for live production.
 
@@ -54,12 +54,12 @@ Just open your favorite code editor and follow along with the---
 The project is for the people who wanna get more skilled in HTML & CSS.
 Source code is available on my Git hub link
 
-[![image](https://user-images.githubusercontent.com/108862706/184493986-7bdd92e4-e060-4736-9365-f5e25448090c.png)](https://github.com/satyamjaysawal/HTML-CSS-PROJECT-1)
-🔗[Source code](https://github.com/satyamjaysawal)(https://github.com/satyamjaysawal/HTML-CSS-PROJECT-1)
+[![image](https://user-images.githubusercontent.com/108862706/184493986-7bdd92e4-e060-4736-9365-f5e25448090c.png)](https://github.com/satyamjaysawal/HTML-CSS-PROJECT-4)
+🔗[Source code](https://github.com/satyamjaysawal)(https://github.com/satyamjaysawal/HTML-CSS-PROJECT-4)
 
 ## 🚀 Deployed Link : _Netlify_
-[![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)](https://html-css-p1.netlify.app/)
-(https://html-css-p1.netlify.app/)
+[![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)](https://html-css-p4.netlify.app/)
+(https://html-css-p4.netlify.app/)
 
 
 
